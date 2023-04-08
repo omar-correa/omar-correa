@@ -4,7 +4,7 @@
 
 ## <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" > Omar Correa
 
-## 🛠️ Tech Tools
+## 🛠️ Experienced Working With
 
 <div style="margin: 1em 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavasSript" width="4%" />
@@ -21,6 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="4%" />
+
+## 📫 Contact
+
+<a href="mailto:omarcorrea378@yahoo.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/omar-correa-6956b7151/) &nbsp;
 
 <!--
 **omar-correa/omar-correa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
