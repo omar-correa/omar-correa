@@ -4,6 +4,9 @@
 
 ## <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" > Omar Correa
 
+As a recent graduate of the University of Miami's 6-month coding boot camp, I have gained proficiency in a wide range of web development technologies, including CSS, HTML, JavaScript, Tailwind, jQuery, Node.js, Express.js, MySQL, Handlebars.js, MongoDB, and React. Through this intensive program, I have not only developed a strong foundation in the principles of programming, but also gained practical experience working on real-world projects and collaborating with fellow developers.
+In addition to my technical skills, I am also a highly motivated and detail-oriented individual who is passionate about creating high-quality, user-friendly websites and applications. Whether I am working on a personal project or collaborating with a team, I am always seeking to learn and grow as a developer. I believe that my skills, dedication, communication, and enthusiasm make me a valuable asset to any organization or project.
+
 ## 🛠️ Experienced Working With
 
 <div style="margin: 1em 0;">
